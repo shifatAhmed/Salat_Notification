@@ -1,0 +1,17 @@
+{
+    "name": "shifat/salat_notification",
+    "autoload": {
+        "psr-4": {
+            "Shifat\\SalatNotification\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "shifatAhmed",
+            "email": "shifatahmed410@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.0.1"
+    }
+}
